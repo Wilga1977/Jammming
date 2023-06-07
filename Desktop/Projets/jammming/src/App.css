@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.App {
+  display: block ;
+  background-color: blue;
+  width:650px;
+  position:relative;
+  left: 30%;
+}
